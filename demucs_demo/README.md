@@ -4,5 +4,5 @@ Create 3 folders(input, output and temp) under this directory. In terminal, run:
 ### Find results under output folder
 ### Cache clean option: simply uncommand line 102 in demo.py
 ```python
-102    #clean_cache()
+125    #clean_cache()
 ```
